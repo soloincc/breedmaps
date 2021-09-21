@@ -1,0 +1,2 @@
+Bootstrap: docker
+FROM bioconda/extended-base-image:latest
